@@ -1,4 +1,4 @@
-# -True-News-Validator
+# True-News-Validator
 Here’s a well-structured README.md template tailored for your Fake News Detection project:
 
 Fake News Detection Using NLP and Machine Learning Overview TrueNews Validator is an interactive web application that detects whether a news article is "Real" or "Fake" using advanced Natural Language Processing (NLP) and Machine Learning techniques. Built with Streamlit, this project aims to tackle misinformation by providing an easy-to-use tool for fake news classification.
